@@ -116,6 +116,6 @@ Alerts & monitoring system
 👨‍💻 Author
 
 Khader Gouse
-B.Tech (AI/ML)
+B.Tech 
 
 ⭐ If you like this project, give it a star!
